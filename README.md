@@ -89,6 +89,4 @@ Koleksi tools yang berguna untuk developer! Platform web yang menyediakan berbag
 
 *If you like my work, please consider giving a ⭐ to my repositories!*
 
-![Snake animation](https://github.com/Piyoxz/Piyoxz/blob/output/github-contribution-grid-snake.svg)
-
 </div>
