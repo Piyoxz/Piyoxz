@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/Gmail-alvioadjijanuar151-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/notloovin">
-    <img src="https://img.shields.io/badge/Instagram-notloovin-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/shouu.py">
+    <img src="https://img.shields.io/badge/Instagram-shouu.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://piyo-tools.vercel.app/">
@@ -78,24 +78,31 @@ const alvio = {
 ## 📊 Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Piyoxz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyoxz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyoxz&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Piyoxz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyoxz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Piyoxz&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+
 </div>
 
 ---
 
 ## 🔥 Featured Project
 
-<a href="https://github.com/Piyoxz/piyo-tools">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyoxz&repo=piyo-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=f59e0b" />
-</a>
+<div align="center">
 
-<br/><br/><br/><br/><br/><br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyoxz&repo=piyo-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Piyoxz/piyo-tools)
+
+</div>
 
 > A curated collection of developer utilities — built with React, deployed on Vercel.
 > 🌐 **Live:** [piyo-tools.vercel.app](https://piyo-tools.vercel.app/)
