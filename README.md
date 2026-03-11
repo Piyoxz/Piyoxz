@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/Gmail-alvioadjijanuar151-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/shouu.py">
-    <img src="https://img.shields.io/badge/Instagram-shouu.py-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/notloovin">
+    <img src="https://img.shields.io/badge/Instagram-notloovin-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://piyo.my.id">
