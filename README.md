@@ -100,12 +100,9 @@ const alvio = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyoxz&repo=piyo-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Piyoxz/piyo-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IndonesianDev&repo=whatsapp-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/IndonesianDev/whatsapp-bot)
 
 </div>
-
-> A curated collection of developer utilities — built with React, deployed on Vercel.
-> 🌐 **Live:** [piyo-tools.vercel.app](https://piyo-tools.vercel.app/)
 
 ---
 
